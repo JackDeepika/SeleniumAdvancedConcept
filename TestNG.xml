@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="advanced">
+<test name="Selenium">
+<classes>
+<class name="com.BasiceConcept.Alertexample"></class>
+</classes>
+</test>
+</suite>
